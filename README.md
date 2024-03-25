@@ -14,7 +14,7 @@ This is a combination of three projects which include;
 (III) A Net Salary Calculator which basically calculates the net salary of an employee based on their basic salary and benefits including the gross salary, tax, NHIF deductions, NSSF deductions, and the net salary.
 
 ### Project Setup:
-In order to download or clone the projects, navigate to the green button written "<> Code" and click on it then copy the link and clone it from your terminal and the projects will be automatically be downloaded and accessible to your computer and to get them up and running ensure your preferred IDE environment has all the necessary dependencies installed.
+In order to download or clone the projects, navigate to the green button written "<> Code" and click on it then copy the link and clone it from your terminal and the projects will be automatically be downloaded and accessible to your computer and to get them up and running ensure your preferred IDE environment has all the necessary dependencies including Quokka.js installed.
 
 #### Live Link:
 https://github.com/kelvinfotech/JavaScript-Week-One-Code-Challenges
